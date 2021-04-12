@@ -9,6 +9,13 @@
  
  *  input text file in inputFile package(it has all vertices and edges)
 
+## Steps to run Algorithm
+  * import project in Eclipse
+  * MainStart.java has all implementation
+  * Need to select Algorithm in MainStart.java class
+  * Output have all edges with their respective colors
+  * It will also return execution time of that Algo.
+
 
 
 
