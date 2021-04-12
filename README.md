@@ -5,6 +5,10 @@
 * 3. Greedy DFS
 * 4. Welsh powell
 
+## input graph - Mycielski graph
+ 
+ *  input text file in inputFile package(it has all vertices and edges)
+
 
 
 
