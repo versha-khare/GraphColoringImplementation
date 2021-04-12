@@ -16,6 +16,10 @@
   * Output have all edges with their respective colors
   * It will also return execution time of that Algo.
 
+## Steps to solve Sudoku puzzle solver using backtracking Algorithm
+   * input - Sudoku.txt file
+   * Run SudokuPuzzleSolver.java to get output.
+
 
 
 
